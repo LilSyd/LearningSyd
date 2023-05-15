@@ -3,27 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi, I'm Sydney ! I love learning new things, food and manual crafts.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This blog is my place to write about learning and my view on learning as a lifelong occupation and mindset.
 
-There are currently two themes built on Poole:
+On this blog you'll find : 
+- Reviews of classes and courses
+- Learning tips about my interests
+- Posts where I share my mindset around learning
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+This blog is for those interested about learning as a mindset and the challenges that come with it. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Don't hesitate to send me questions or recommendations you have and want me to write about. 
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Hope you enjoy it ! 
