@@ -3,17 +3,15 @@ layout: page
 title: About
 ---
 
-Hi, I'm Sydney ! I love learning new things, food and manual crafts.
+Hello, I'm Sydney ! 
 
-This blog is my place to write about learning and my view on learning as a lifelong occupation and mindset.
+I've always wanted to write and post articles online but was too scared to do it.
+So this website is where I'll be sharing what I write regulary. 
 
-On this blog you'll find : 
-- Reviews of classes and courses
-- Learning tips about my interests
-- Posts where I share my mindset around learning
+I love learning new things, food and manual crafts.
 
-This blog is for those interested about learning as a mindset and the challenges that come with it. 
+This blog is for those interested to follow my adventure.
 
-Don't hesitate to send me questions or recommendations you have and want me to write about. 
+Feel free to reach out to me ! 
 
 Hope you enjoy it ! 
